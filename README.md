@@ -21,7 +21,7 @@ This Go script is a concurrent web scraper and sitemap generator. It takes a web
 1. Clone the repository:
 
    ```
-   git clone https://github.com/jaydxyz/concurrent-web-scraper-and-sitemap-generator.git
+   git clone https://github.com/jayinmt/concurrent-web-scraper-and-sitemap-generator.git
    ```
 
 2. Navigate to the project directory:
